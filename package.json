@@ -1,0 +1,13 @@
+{
+  "name": "simple-defi-staking-vault",
+  "version": "1.0.0",
+  "description": "DeFi Staking Vault Repository",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.7.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  },
+  "license": "MIT"
+}
